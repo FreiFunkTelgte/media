@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:editing-cycles>37</meta:editing-cycles><meta:print-date>2015-04-22T11:38:00</meta:print-date><meta:creation-date>2015-04-22T11:01:00</meta:creation-date><dc:date>2016-07-01T15:48:30.735000000</dc:date><meta:editing-duration>PT3M51S</meta:editing-duration><meta:generator>LibreOffice/5.1.4.2$Windows_x86 LibreOffice_project/f99d75f39f1c57ebdd7ffc5f42867c12031db97a</meta:generator><meta:document-statistic meta:character-count="4477" meta:image-count="7" meta:non-whitespace-character-count="3932" meta:object-count="0" meta:page-count="3" meta:paragraph-count="45" meta:table-count="1" meta:word-count="589"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">GAD</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:editing-cycles>38</meta:editing-cycles><meta:print-date>2015-04-22T11:38:00</meta:print-date><meta:creation-date>2015-04-22T11:01:00</meta:creation-date><dc:date>2016-07-04T17:34:35.240000000</dc:date><meta:editing-duration>PT4M14S</meta:editing-duration><meta:generator>LibreOffice/5.0.6.3$Windows_x86 LibreOffice_project/490fc03b25318460cfc54456516ea2519c11d1aa</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="3" meta:paragraph-count="45" meta:word-count="591" meta:character-count="4489" meta:non-whitespace-character-count="3942"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">GAD</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2540</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">49082</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22994</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34424</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14766</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3701</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1302</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19655</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5808</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">49080</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">22992</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2540</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34422</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17304</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1805804</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1908354</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
@@ -616,29 +616,39 @@
    <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="0.751cm" fo:margin-right="0.09cm" style:line-height-at-least="0.176cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="2.499cm" style:auto-text-indent="false" style:page-number="auto" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="2.499cm" style:auto-text-indent="false" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="auto"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
-   <style:paragraph-properties style:line-height-at-least="0.176cm"/>
-   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
    <style:paragraph-properties style:line-height-at-least="0.176cm"/>
    <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="10pt" style:font-name-asian="Arial1" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-left="0.751cm" fo:margin-right="0.09cm" style:line-height-at-least="0.176cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="2.499cm" style:auto-text-indent="false" style:page-number="auto" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="2.499cm" style:auto-text-indent="false" fo:keep-with-next="always" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-left="0.751cm" fo:margin-right="0.09cm" style:line-height-at-least="0.176cm" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+   <style:paragraph-properties style:line-height-at-least="0.176cm"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+   <style:paragraph-properties style:line-height-at-least="0.176cm"/>
+   <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="10pt" style:font-name-asian="Arial1" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:margin-left="0.751cm" fo:margin-right="0.09cm" style:line-height-at-least="0.176cm" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -716,6 +726,9 @@
   <style:style style:name="T25" style:family="text">
    <style:text-properties officeooo:rsid="00162683"/>
   </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="001d1e82"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
@@ -754,7 +767,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P33"><draw:frame draw:style-name="fr1" draw:name="Bild 1" text:anchor-type="as-char" svg:width="2.461cm" svg:height="1.746cm" draw:z-index="3"><draw:image>
+   <text:p text:style-name="P36"><draw:frame draw:style-name="fr1" draw:name="Bild 1" text:anchor-type="as-char" svg:width="2.461cm" svg:height="1.746cm" draw:z-index="3"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAF0AAABCCAIAAAC6k03aAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA7nSURBVHhe3Vv5fxRFFt8/aGFV1AVv
        8RZd8cBrPVdxDRAhnHJfCbcgckYOiUi4NcitEhERghBIAiRISOa+j2Qy99Hd+62pSk9Pdc+Z
@@ -835,9 +848,9 @@
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P6">Bevor Sie Ihren neuen Freifunk-Router aufstellen, möchten Sie vielleicht wissen, welche Aufgaben das Gerät überhaupt erfüllt.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6">Hier sind die drei wichtigsten Funktionen kurz erklärt:</text:p>
+   <text:p text:style-name="P6">Hier sind die drei wichtigsten Funktionen kurz <text:span text:style-name="T26">und einfach </text:span>erklärt:</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P31">Automatische verschlüsselte Verbindung zu den<draw:frame draw:style-name="fr2" draw:name="Picture" text:anchor-type="char" svg:x="0.335cm" svg:y="0.051cm" svg:width="1.536cm" svg:height="1.561cm" draw:z-index="6"><draw:image>
+   <text:p text:style-name="P32">Automatische verschlüsselte Verbindung zu den<draw:frame draw:style-name="fr2" draw:name="Picture" text:anchor-type="char" svg:x="0.335cm" svg:y="0.051cm" svg:width="1.536cm" svg:height="1.561cm" draw:z-index="6"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAEEAAABCCAYAAAAIY7vrAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAA3RSURBVHhe1ZwJeFNVFsdPkzRNuiZp
        S1tAFBTFQQVFBccVXFFxEHSGEcYFdRBcEHAb53NGx0/BBURxAWXEjXEZF0AH+dxQVHABBUHc
@@ -909,7 +922,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P32">Freifunk-Servern</text:p>
+   <text:p text:style-name="P33">Freifunk-Servern</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P6">Sobald Ihr Freifunk-Router startet, baut er durch Ihren Internetanschluss eine verschlüsselte Verbindung - einen so genannten VPN-Tunnel - zu den Freifunk-Servern (Gateways) auf. Dieser Vorgang schützt Sie als Routerbetreiber z. B. vor Abmahnungen auf Basis der Störerhaftung.</text:p>
    <text:p text:style-name="P6">Tipp: Anwendungen auf Ihrem Endgerät sind hiervon nicht betroffen und müssen, wie generell üblich, selbst eine sichere Verbindung aufbauen, um sicher mit dem Internet kommunizieren zu können.</text:p>
@@ -990,8 +1003,8 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P31">Andere Freifunk-Router in der Nähe suchen und </text:p>
-   <text:p text:style-name="P32">verbinden (Mesh-Netzwerk)</text:p>
+   <text:p text:style-name="P32">Andere Freifunk-Router in der Nähe suchen und </text:p>
+   <text:p text:style-name="P33">verbinden (Mesh-Netzwerk)</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P6">Die intelligente Freifunk-Software sucht im Betrieb nach anderen Freifunk-Routern in der Nähe. Findet der Router in Funkreichweite einen anderen Freifunkrouter, verbinden diese sich automatisch in einem Maschen-Netzwerk (Mesh).</text:p>
    <text:p text:style-name="P6">Über dieses vermaschte Netzwerk können sich mehrere Freifunk-Router z. B. eine Internetverbindung teilen, ohne dass jedes Gerät einzeln an das Internet angeschlossen werden muss. Außerdem entsteht eine Ausfallsicherheit, wenn das Maschen-Netz an mehreren Internet-Anschlüssen gleichzeitig angebunden ist.</text:p>
@@ -1075,7 +1088,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P31">Offenes und (kosten-) freies WLAN für alle</text:p>
+   <text:p text:style-name="P32">Offenes und (kosten-) freies WLAN für alle</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="P6">Ihre Besucher, Gäste oder Kunden sehen nach der Inbetriebnahme des Freifunk-Routers auf ihrem Smartphone, Tablet oder Laptop ein neues WLAN mit dem Namen (SSID) „Freifunk”.</text:p>
@@ -1271,12 +1284,12 @@
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P10">Strom</text:p>
    <text:p text:style-name="P10"/>
-   <text:list xml:id="list100633480039074824" text:style-name="WWNum1">
+   <text:list xml:id="list5967246788603407762" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P34">Beiliegendes Netzteil verwenden.</text:p>
+     <text:p text:style-name="P37">Beiliegendes Netzteil verwenden.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34">Ggf. den Router auf der Rückseite anschalten (je nach Modell).</text:p>
+     <text:p text:style-name="P37">Ggf. den Router auf der Rückseite anschalten (je nach Modell).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7"/>
@@ -1287,12 +1300,12 @@
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P15">(z.B. von an den von Ihrem Internetprovider (T-Online, Vodafone, Unitymedia, etc.) zur Verfügung gestellt Router (z. B. AVM Fritz!Box oder Speedport))</text:p>
    <text:p text:style-name="P14"/>
-   <text:list xml:id="list233302583295149" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list173435558822098" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P36"><text:span text:style-name="T10">Das Netzwerk-Kabel </text:span><text:span text:style-name="T19">an Ihrem Freifunk-Router</text:span><text:span text:style-name="T10"> nur an den </text:span><text:span text:style-name="T19">blauen Anschluss</text:span><text:span text:style-name="T10"> anschließen.</text:span></text:p>
+     <text:p text:style-name="P39"><text:span text:style-name="T10">Das Netzwerk-Kabel </text:span><text:span text:style-name="T19">an Ihrem Freifunk-Router</text:span><text:span text:style-name="T10"> nur an den </text:span><text:span text:style-name="T19">blauen Anschluss</text:span><text:span text:style-name="T10"> anschließen.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P31"/>
    <text:p text:style-name="P15">(Die gelben Netzwerkanschlüsse an Ihrem Freifunk-Router im normalen Betrieb freilassen. Eine falsche Verkabelung wird zu Störungen in ihrem Heimnetzwerk führen.)</text:p>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"><draw:frame draw:style-name="fr4" draw:name="Bild6" text:anchor-type="char" svg:x="6.565cm" svg:y="0.7cm" svg:width="6.99cm" svg:height="2.117cm" draw:z-index="0"><draw:image>
@@ -4098,24 +4111,24 @@
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P10">Reichweite optimieren</text:p>
    <text:p text:style-name="P10"/>
-   <text:list xml:id="list233303232117823" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list173436207720731" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P34">Den Freifunk-Router möglichst in Außennähe aufstellen.</text:p>
+     <text:p text:style-name="P37">Den Freifunk-Router möglichst in Außennähe aufstellen.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P29">(z. B. auf einem Fensterbrett in der Auslage eines Schaufenster<text:span text:style-name="T20">s</text:span>)</text:p>
    <text:p text:style-name="P7"/>
-   <text:list xml:id="list233303863987856" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list173435884248077" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P34">Stellen Sie einfach einen weiteren Router im Obergeschoss, im Holzschuppen oder im Carport auf; wettergeschützt.</text:p>
+     <text:p text:style-name="P37">Stellen Sie einfach einen weiteren Router im Obergeschoss, im Holzschuppen oder im Carport auf; wettergeschützt.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P27"><text:span text:style-name="T3">(Dieser </text:span><text:span text:style-name="T4">Zweit- oder Drittrouter benötigt nur Strom</text:span><text:span text:style-name="T3"> und keine Internetverbindung. Er verbindet sich per WLAN mit einem bereits im Internet verbundenen Freifunkrouter in der Nähe; automatisch!)</text:span></text:p>
    <text:p text:style-name="P28"/>
-   <text:list xml:id="list233303501142872" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list173436283496599" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P34">Für größere Reichweiten (z.B. Biergarten) gibt es auch kleine, wetterfeste Außenrouter.</text:p>
-     <text:p text:style-name="P35"><text:span text:style-name="T22">(</text:span><text:span text:style-name="T21">Sprechen Sie uns gerne an oder informieren sie sich auf unserer Internetseite.</text:span><text:span text:style-name="T23">)</text:span></text:p>
+     <text:p text:style-name="P37">Für größere Reichweiten (z.B. Biergarten) gibt es auch kleine, wetterfeste Außenrouter.</text:p>
+     <text:p text:style-name="P38"><text:span text:style-name="T22">(</text:span><text:span text:style-name="T21">Sprechen Sie uns gerne an oder informieren sie sich auf unserer Internetseite.</text:span><text:span text:style-name="T23">)</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P28"/>
