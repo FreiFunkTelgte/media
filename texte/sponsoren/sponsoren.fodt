@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2017-03-10T14:54:35.891000000</meta:creation-date><dc:date>2017-03-15T20:30:02.346000000</dc:date><meta:editing-duration>PT18M47S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Windows_x86 LibreOffice_project/f99d75f39f1c57ebdd7ffc5f42867c12031db97a</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="11" meta:word-count="289" meta:character-count="2018" meta:non-whitespace-character-count="1727"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">61743</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">31313</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11621</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">22544</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">61741</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">31311</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1366456</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1647016</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Verdana" svg:font-family="Verdana"/>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Roboto" svg:font-family="Roboto" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="SimSun" svg:font-family="SimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-weight="bold" style:font-name-asian="SimSun" style:font-family-asian="SimSun" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.762cm" fo:text-indent="-0.762cm" fo:margin-left="0.762cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.016cm" fo:text-indent="-1.016cm" fo:margin-left="1.016cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-1.27cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.524cm" fo:text-indent="-1.524cm" fo:margin-left="1.524cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.778cm" fo:text-indent="-1.778cm" fo:margin-left="1.778cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.032cm" fo:text-indent="-2.032cm" fo:margin-left="2.032cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.286cm" fo:text-indent="-2.286cm" fo:margin-left="2.286cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-2.54cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.794cm" fo:text-indent="-2.794cm" fo:margin-left="2.794cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.048cm" fo:text-indent="-3.048cm" fo:margin-left="3.048cm"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0017d9ff" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Roboto" fo:font-size="16pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0014d9b8" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Roboto" fo:font-size="11pt" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0014d9b8" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="normal" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0014d9b8" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="normal" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0015f812" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0014d9b8" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="200%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0017d9ff" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="0017d9ff" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0014d9b8" officeooo:paragraph-rsid="001921a8" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0017d9ff" officeooo:paragraph-rsid="0017d9ff" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#dc0067" style:font-name="Roboto" fo:font-size="11pt" fo:font-weight="bold" officeooo:rsid="0017d9ff" officeooo:paragraph-rsid="001921a8" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Roboto" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0017d9ff" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Roboto" officeooo:rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Roboto" officeooo:rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#dc0067"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#dc0067" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#dc0067" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#dc0067" fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#dc0067" fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" officeooo:rsid="0017d9ff" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" officeooo:rsid="001921a8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:use-window-font-color="true" fo:font-weight="normal" officeooo:rsid="0014d9b8" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Roboto" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0017d9ff" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Roboto" officeooo:rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Roboto" officeooo:rsid="001921a8"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-bottom="0.499cm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:header>
+    <text:p text:style-name="P1"><draw:frame draw:style-name="fr1" draw:name="Bild1" text:anchor-type="as-char" svg:width="8.742cm" svg:height="1.693cm" draw:z-index="0"><draw:image>
+       <office:binary-data>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
+        i8XK6fp/vjECc2z4AKEAAAAASUVORK5CYII=
+       </office:binary-data>
+      </draw:image>
+      <svg:title>https://www.freifunk-telgte.de/wp-content/uploads/2016/11/Logo-1.png</svg:title>
+     </draw:frame><text:line-break/></text:p>
+    <text:p text:style-name="P2"><text:span text:style-name="T1">Das fr</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T1">eie Mitmach-Netz, ohne Risiken, für alle!</text:span></text:span></text:p>
+   </style:header>
+   <style:footer>
+    <text:p text:style-name="P3"><text:span text:style-name="T2">www.freifunk-telgte.de</text:span><text:span text:style-name="T3"> | kontakt@freifunk-telgte.de</text:span></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text>
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P10"><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T11"><text:line-break/>Sehr geehrter (Name des Ansprechpartners),<text:line-break/><text:line-break/></text:span><text:span text:style-name="T12">im Zeitalter der Digitalisierung hat das Internet schon seit langem einen sehr hohen Stellenwert in unsere Gesellschaft. So gut wie jeder besitzt heutzutage mindestens ein Smartphone oder einen Laptop, mit dem er unterwegs im Netz surfen möchte.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T11">Doch dabei stoßen wir leider schnell an Grenzen. Das Datenvolumen ist beschränkt, die Geschwindigkeit könnte auch schneller sein und Empfang ist auch nicht überall gewährleistet.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12">Aus diesem Problem ist die Idee des „Freifunk“ entstanden. Bei Freifunk kann jeder seinen normalen, nicht begrenzten, Internetanschluss mit anderen teilen. Alles total unkompliziert und rechtlich auf der sicheren Seite. </text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12">Als Teil des Freifunk Münsterlands bauen wir seit Januar 2016 aktiv das Freifunk Netz in Telgte und Westbevern aus, mittlerweile besteht dies bereits aus über 70 Knoten (Routern) und es werden immer mehr. Doch um dieses Netz zu betreiben benötigen wir finanzielle Unterstützung. Zum Teil um die Serverinfrastruktur in Münster zu bezahlen und zum anderen Teil um aktiv in neue Knoten und Internetanschlüsse investieren zu können.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T12"/></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T11">Daher fragen wir Sie, als lokales Telgter Unternehmen, ob Sie bereit wären uns mit einer Geld- oder Sachspende zu unterstützen. Konkret sind wir gerade dabei den Telgter Marktplatz und die Innenstadt zu vernetzen, hiervon würden fast alle Telgter*innen profitieren.</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T11"/></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T11">Im Gegenzug würden wir Sie natürlich gerne auf unserer Homepage als Freifunk Unterstützer aufführen. Auch einen Benennung der Freifunk Router mit ihrem Firmennamen </text:span><text:span text:style-name="T13">oder Artikel in der Zeitung</text:span><text:span text:style-name="T11"> sind denkbar.</text:span><text:span text:style-name="T14"><text:line-break/><text:line-break/></text:span><text:span text:style-name="T13">Falls Sie unsere ehrenamtliche Arbeit in Telgte unterstützen möchten, oder noch weitere Fragen zum Thema Freifunk haben, melden Sie sich gerne telefonisch oder per E-Mail bei uns.</text:span><text:span text:style-name="T14"><text:line-break/><text:line-break/><text:line-break/>Mit freundlichen Grü</text:span><text:span text:style-name="T13">ß</text:span><text:span text:style-name="T14">en<text:line-break/></text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T13">(Absender) – (Telefon-Nr)</text:span><text:span text:style-name="T11"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P11"><text:span text:style-name="T11"><text:line-break/><text:line-break/>P.S.: </text:span><text:span text:style-name="T13">Gerne helfen wir Ihnen auch bei der Installation von Freifunk Routern in Ihrem Unternehmen!</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
